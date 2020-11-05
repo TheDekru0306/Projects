@@ -62,7 +62,7 @@ std::string decodeTap(std::vector<std::vector<int>>alpToCoordinates)
 }
 
 /*
- * std::string text = "LUBO KP BRAT LIPSVASH";
+ * std::string text = "Place your test text here!";
 
     std::vector<std::vector<int>> result = encodeTap(text);
 
